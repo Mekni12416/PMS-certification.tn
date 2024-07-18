@@ -37,7 +37,7 @@
   --h2-font-size: 1.25rem;
   --h3-font-size: 1.125rem;
   --normal-font-size: .938rem;
-  --small-font-size: .813rem;
+  --small-font-size: .750rem;
   --smaller-font-size: .75rem;
   /*========== Font weight ==========*/
   --font-semi-bold: 600;
@@ -659,8 +659,9 @@ security__data {
 }
 
 .h1cadre2 {
+  text-align: center;
   color: #ffd205;
-  margin-left: 24%;
+  /* margin-left: 24%; */
 }
 
 .im {
