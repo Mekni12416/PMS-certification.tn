@@ -253,7 +253,7 @@ body.dark-theme {
 }
 
 .home__title {
-  font-size: 229%;
+  font-size: 180%;
   margin-bottom: var(--mb-0-75);
   margin-top: -9%;
 }
@@ -728,7 +728,7 @@ h2 {
   font-size: 1em;
   margin-bottom: 15px;
 }
-
+/* 
 .service-card a {
   background-color: rgb(255 250 225);
   border-radius: 10px;
@@ -741,7 +741,7 @@ h2 {
 
 .service-card a:hover {
   color: #0900b1;
-}
+} */
 
 .processus {
   background-color: rgb(255 250 225);
@@ -850,7 +850,7 @@ h2 {
 
 .videohome {
   margin-left: 12%;
-  margin-top: -22%;
+  margin-top: -17%;
   width: 51%;
 }
 
@@ -865,3 +865,5 @@ h2 {
   background-image: url(./CoursierPlus-main/assets/img/hi.png);
  
 }
+
+
